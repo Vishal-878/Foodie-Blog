@@ -1,5 +1,6 @@
 # Foodie-Blog
 I have created a Foodie Blog website using html, css and Javascript. It helps the user to find the recipes info of different food items. In this website I have designed/created three webpages named home, about , contact. Its look like a online food website.This is my FRT (Future Ready Talent) Project. 
+
 #Azure Link: https://white-river-0bf78cb10.1.azurestaticapps.net
 
 # Home Page:-
