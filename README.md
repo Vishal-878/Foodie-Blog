@@ -21,3 +21,8 @@ I have created a Foodie Blog website using html, css and Javascript. It helps th
 ![ss4](https://user-images.githubusercontent.com/73544814/170446888-fb903c96-ae60-4bb6-be39-eac3f65307e4.png)
 
 ![ss5](https://user-images.githubusercontent.com/73544814/170446941-27e01101-62fb-475d-958b-d77adfec9440.png)
+
+
+# Deployment Project:-
+
+![ss8](https://user-images.githubusercontent.com/73544814/170839523-e4000efb-2e37-49dc-b0d7-46d5b0ba1e51.png)
